@@ -1,1 +1,1 @@
-["Vercse","Vercse alt","account","test"]
+["Vercse","Vercse alt","account"]
