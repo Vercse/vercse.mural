@@ -2,3 +2,4 @@
 Vercse\test
 Malacka\hello Nocs
 Vercse\Hello!
+Malacka\verd meg, bocs ne verd meg  macskát. Simizd meg
