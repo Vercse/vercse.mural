@@ -9,3 +9,5 @@ Vercse\traktor
 img.Vercse\Chat icon.jpg
 Vercse\img test
 img.Vercse\Képernyőkép 2025-05-04 113149.png
+
+img.Vercse alt\
