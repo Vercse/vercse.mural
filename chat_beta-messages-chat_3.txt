@@ -1,1 +1,13 @@
-["Vercse\\test","Vercse\\test 2","Vercse\\asd","Vercse\\csd","Vercse\\traktor","img.Vercse\\Chat icon.jpg","Vercse\\img test","img.Vercse\\Képernyőkép 2025-05-04 113149.png","img.Vercse alt\\","Vercse alt\\test 3","Vercse\\test 4","Vercse\\test 5","Vercse alt\\test 6"]
+Vercse\test
+Vercse\test 2
+Vercse\asd
+Vercse\csd
+Vercse\traktor
+img.Vercse\Chat icon.jpg
+Vercse\img test
+img.Vercse\Képernyőkép 2025-05-04 113149.png
+img.Vercse alt\
+Vercse alt\test 3
+Vercse\test 4
+Vercse\test 5
+Vercse alt\test 6
